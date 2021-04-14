@@ -5,7 +5,7 @@
     "colab": {
       "name": "Untitled2.ipynb",
       "provenance": [],
-      "authorship_tag": "ABX9TyNLscWDhT1C0LJTll61ZImz",
+      "authorship_tag": "ABX9TyOWOaO4cD/B/12+26xN/CCx",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -43,7 +43,7 @@
         "\n",
         "import discord\n",
         "from dotenv import load_dotenv\n",
-        "TOKEN = os.getenv('ODMxOTgwMjE4MzIyMzg3MDI1.YHdH9Q.osOA9OXyh8TSUAuDgBV9d257CnU')\n",
+        "TOKEN = os.getenv('ODMxOTgwMjE4MzIyMzg3MDI1.YHdH9Q._Hf3Ja8UrZ20rcjYVQmjKSZlt1U')\n",
         "\n",
         "client = discord.Client()\n",
         "\n",
